@@ -1,0 +1,4002 @@
+[
+  {
+    "soal": "Tebak aku: Aku punya kaca dan bingkai, memantulkan wajahmu. Siapakah aku?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Clue: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Aku memadamkan api. Apakah kamu tahu jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Aku selalu datang tapi tak pernah tiba. Apa itu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memadamkan api. Jawabannya adalah...?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menghibur orang dengan musik. Jawabanmu?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga putih harum, sering ada di pernikahan. Siapakah aku?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku cahaya kecil yang bisa mengusir gelap. Apakah kamu tahu jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku besar dengan belalai panjang. Apa itu?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Aku teka-teki: Aku berbiji merah kecil, pedas membakar lidah. Jawabannya adalah...?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berbiji merah kecil, pedas membakar lidah. Jawabanmu?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Coba pikirkan: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu lapar, aku harus selalu diberi makan. Siapakah aku?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Clue: Aku selalu ada di kamus setelah besok. Apa jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apakah kamu tahu jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku bisa membuatmu menangis tanpa menyentuhmu. Apa itu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa membekukan makanan. Apa jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu ada di kamus setelah besok. Siapakah aku?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Clue: Aku membuat pakaian dengan mesin jahit. Apa jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku punya roda dua dan kayuh. Apakah kamu tahu jawabannya?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apa itu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jadi terang tapi juga menyakitkan. Jawabannya adalah...?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku ada saat kau tidur, hilang saat kau bangun. Jawabanmu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon tinggi dengan buah manis berwarna kuning. Siapakah aku?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Clue: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku mengolah tanah dan menanam padi. Apakah kamu tahu jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apa itu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon kelapa yang tumbuh di pantai. Jawabannya adalah...?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku sahabat manusia, suka menggonggong. Jawabanmu?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Aku tempat menyimpan uang di saku. Siapakah aku?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Clue: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku cahaya kecil yang bisa mengusir gelap. Apakah kamu tahu jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku mengolah tanah dan menanam padi. Apa itu?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak punya sayap, tapi bisa terbang jauh. Jawabannya adalah...?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berdaun hijau, sering dibuat minuman teh. Jawabanmu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga putih harum, sering ada di pernikahan. Apa jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Tebak aku: Aku mengemudikan pesawat. Siapakah aku?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Clue: Aku selalu ada di kamus setelah besok. Apa jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku pohon besar dengan akar menjuntai. Apakah kamu tahu jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apa itu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menyembuhkan orang sakit. Jawabannya adalah...?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Jawabanmu?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa pecah tapi tak pernah jatuh. Siapakah aku?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Clue: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apa itu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku besar dengan belalai panjang. Jawabannya adalah...?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bunga dengan duri, sering jadi lambang cinta. Jawabanmu?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon dengan buah berduri dan bau menyengat. Siapakah aku?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Clue: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apakah kamu tahu jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku kecil hijau di piringmu, penuh vitamin. Apa itu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Jawabannya adalah...?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku ada saat kau tidur, hilang saat kau bangun. Jawabanmu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa terbang di malam hari dengan sayap kulit. Siapakah aku?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Clue: Aku menghibur orang dengan musik. Apa jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku sahabat manusia, suka menggonggong. Apakah kamu tahu jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku bisa pecah tapi tak pernah jatuh. Apa itu?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu ada di kamus setelah besok. Jawabannya adalah...?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menyembuhkan orang sakit. Jawabanmu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu ada di kamus setelah besok. Apa jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa membuatmu menangis tanpa menyentuhmu. Siapakah aku?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku bisa berenang dan punya sirip tajam. Apakah kamu tahu jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku menulis berita di koran. Apa itu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabannya adalah...?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabanmu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memadamkan api. Apa jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Tebak aku: Aku sahabat manusia, suka menggonggong. Siapakah aku?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Clue: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku besar dengan belalai panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Aku bisa jadi terang tapi juga menyakitkan. Apa itu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Jawabannya adalah...?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon dengan buah berduri dan bau menyengat. Jawabanmu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Coba pikirkan: Aku membuat pakaian dengan mesin jahit. Apa jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Tebak aku: Aku mengolah tanah dan menanam padi. Siapakah aku?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Clue: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Aku raja hutan, suaraku menggetarkan bumi. Apakah kamu tahu jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apa itu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Jawabannya adalah...?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya roda dua dan kayuh. Jawabanmu?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga dengan duri, sering jadi lambang cinta. Siapakah aku?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Clue: Aku sahabat manusia, suka menggonggong. Apa jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apa itu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak punya sayap, tapi bisa terbang jauh. Jawabannya adalah...?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berdaun hijau, sering dibuat minuman teh. Jawabanmu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Coba pikirkan: Aku penuh lubang tapi bisa menahan air. Apa jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Tebak aku: Aku ada saat kau tidur, hilang saat kau bangun. Siapakah aku?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Clue: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apakah kamu tahu jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apa itu?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak punya sayap, tapi bisa terbang jauh. Jawabannya adalah...?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku kecil hijau di piringmu, penuh vitamin. Jawabanmu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga putih harum, sering ada di pernikahan. Siapakah aku?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Clue: Aku sahabat manusia, suka menggonggong. Apa jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apakah kamu tahu jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apa itu?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bunga dengan duri, sering jadi lambang cinta. Jawabannya adalah...?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bunga dengan duri, sering jadi lambang cinta. Jawabanmu?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku selalu ada di kamus setelah besok. Apakah kamu tahu jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku selalu ada di kamus setelah besok. Apa itu?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa menunjukkan waktu tanpa bicara. Jawabanmu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya tombol banyak, aku membantu menulis. Apa jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Tebak aku: Semakin kau ambil dariku, aku semakin besar. Siapakah aku?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Clue: Aku selalu datang tapi tak pernah tiba. Apa jawabannya?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku cahaya kecil yang bisa mengusir gelap. Apakah kamu tahu jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apa itu?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya layar, kau menatapku setiap hari. Jawabannya adalah...?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Jawabanmu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Tebak aku: Aku berdaun hijau, sering dibuat minuman teh. Siapakah aku?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Clue: Aku mengolah tanah dan menanam padi. Apa jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku punya cangkang keras, jalanku lambat. Apakah kamu tahu jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apa itu?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memadamkan api. Jawabannya adalah...?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku besar dengan belalai panjang. Jawabanmu?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Coba pikirkan: Aku raja hutan, suaraku menggetarkan bumi. Apa jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Tebak aku: Aku raja hutan, suaraku menggetarkan bumi. Siapakah aku?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Clue: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apakah kamu tahu jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apa itu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Jawabannya adalah...?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya cangkang keras, jalanku lambat. Jawabanmu?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memadamkan api. Apa jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Tebak aku: Aku tempat menyimpan uang di saku. Siapakah aku?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Clue: Aku membuat desain bangunan. Apa jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku berwarna hitam putih dan suka bambu. Apakah kamu tahu jawabannya?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apa itu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memadamkan api. Jawabannya adalah...?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon besar dengan akar menjuntai. Jawabanmu?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa jadi terang tapi juga menyakitkan. Apa jawabannya?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa berenang dan punya sirip tajam. Siapakah aku?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Clue: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apakah kamu tahu jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa itu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menulis berita di koran. Jawabannya adalah...?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membekukan makanan. Jawabanmu?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku punya cangkang keras, jalanku lambat. Siapakah aku?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Clue: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apakah kamu tahu jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apa itu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku teka-teki: Aku berdaun hijau, sering dibuat minuman teh. Jawabannya adalah...?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabanmu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa jadi terang tapi juga menyakitkan. Siapakah aku?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Clue: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku pohon besar dengan akar menjuntai. Apakah kamu tahu jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa itu?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Jawabannya adalah...?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabanmu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa menunjukkan waktu tanpa bicara. Apa jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Tebak aku: Aku kecil hijau di piringmu, penuh vitamin. Siapakah aku?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Clue: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku besar dengan belalai panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Aku alat untuk melihat benda jauh di langit. Apa itu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku teka-teki: Aku membuat desain bangunan. Jawabannya adalah...?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa terbang di malam hari dengan sayap kulit. Jawabanmu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Tebak aku: Aku tak punya sayap, tapi bisa terbang jauh. Siapakah aku?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Clue: Aku pohon dengan buah berduri dan bau menyengat. Apa jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apakah kamu tahu jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku kecil hijau di piringmu, penuh vitamin. Apa itu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa pecah tapi tak pernah jatuh. Jawabannya adalah...?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berbiji merah kecil, pedas membakar lidah. Jawabanmu?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Coba pikirkan: Aku penuh lubang tapi bisa menahan air. Apa jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Tebak aku: Aku punya cangkang keras, jalanku lambat. Siapakah aku?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apa itu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku teka-teki: Aku licin dan berjalan tanpa kaki. Jawabannya adalah...?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabanmu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengendarai kapal di laut. Apa jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Tebak aku: Aku mengemudikan pesawat. Siapakah aku?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Clue: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku kecil hijau di piringmu, penuh vitamin. Apa itu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku berwarna hitam putih dan suka bambu. Jawabannya adalah...?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jadi terang tapi juga menyakitkan. Jawabanmu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Tebak aku: Aku melindungimu dari hujan. Siapakah aku?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Clue: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apakah kamu tahu jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apa itu?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabannya adalah...?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku buah bulat merah, kadang dianggap sayur. Jawabanmu?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa terbang di malam hari dengan sayap kulit. Apa jawabannya?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Tebak aku: Aku mengendarai kapal di laut. Siapakah aku?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Clue: Aku menulis berita di koran. Apa jawabannya?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apakah kamu tahu jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Semakin kau ambil dariku, aku semakin besar. Apa itu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabannya adalah...?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabanmu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Tebak aku: Aku memadamkan api. Siapakah aku?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Clue: Aku selalu datang tapi tak pernah tiba. Apa jawabannya?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apakah kamu tahu jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apa itu?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabannya adalah...?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menulis berita di koran. Apa jawabannya?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Tebak aku: Aku cahaya kecil yang bisa mengusir gelap. Siapakah aku?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Clue: Aku mengajar murid di sekolah. Apa jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apakah kamu tahu jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Semakin kau ambil dariku, aku semakin besar. Apa itu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Jawabannya adalah...?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon kelapa yang tumbuh di pantai. Jawabanmu?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Tebak aku: Aku menyembuhkan orang sakit. Siapakah aku?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Clue: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku tajam dan bisa memotong, tapi bukan gigi. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apa itu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menyembuhkan orang sakit. Jawabannya adalah...?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tempat menyimpan uang di saku. Jawabanmu?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menyembuhkan orang sakit. Apa jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon besar dengan akar menjuntai. Siapakah aku?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apakah kamu tahu jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apa itu?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jatuh tapi tak pernah pecah. Jawabannya adalah...?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa pecah tapi tak pernah jatuh. Jawabanmu?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Tebak aku: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Siapakah aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Clue: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku pohon dengan buah berduri dan bau menyengat. Apakah kamu tahu jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apa itu?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa terbang di malam hari dengan sayap kulit. Jawabannya adalah...?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bunga dengan duri, sering jadi lambang cinta. Jawabanmu?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menghibur orang dengan musik. Apa jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Tebak aku: Aku berlari tanpa kaki, aku berbicara tanpa suara. Siapakah aku?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku selalu ada di kamus setelah besok. Apa itu?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabannya adalah...?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabanmu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Aku menyembuhkan orang sakit. Siapakah aku?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Clue: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku menghibur orang dengan musik. Apakah kamu tahu jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apa itu?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Jawabannya adalah...?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon besar dengan akar menjuntai. Jawabanmu?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berbiji merah kecil, pedas membakar lidah. Apa jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Tebak aku: Aku mengemudikan pesawat. Siapakah aku?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Clue: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Semakin kau ambil dariku, aku semakin besar. Apakah kamu tahu jawabannya?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apa itu?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memadamkan api. Jawabannya adalah...?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa pecah tapi tak pernah jatuh. Jawabanmu?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apakah kamu tahu jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apa itu?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku teka-teki: Aku membuat desain bangunan. Jawabannya adalah...?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku membuat pakaian dengan mesin jahit. Jawabanmu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Coba pikirkan: Aku besar dengan belalai panjang. Apa jawabannya?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku bunga putih harum, sering ada di pernikahan. Apa jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apakah kamu tahu jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menyembuhkan orang sakit. Jawabannya adalah...?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabanmu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Coba pikirkan: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Tebak aku: Aku menghibur orang dengan musik. Siapakah aku?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Clue: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku bisa berenang dan punya sirip tajam. Apa itu?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menghibur orang dengan musik. Jawabannya adalah...?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengajar murid di sekolah. Jawabanmu?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Coba pikirkan: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Siapakah aku?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Clue: Aku bisa jadi terang tapi juga menyakitkan. Apa jawabannya?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Aku berwarna hitam putih dan suka bambu. Apakah kamu tahu jawabannya?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apa itu?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon kelapa yang tumbuh di pantai. Jawabanmu?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Semakin kau ambil dariku, aku semakin besar. Siapakah aku?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Clue: Aku berbiji merah kecil, pedas membakar lidah. Apa jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apakah kamu tahu jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku kecil hijau di piringmu, penuh vitamin. Apa itu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku teka-teki: Semakin kau ambil dariku, aku semakin besar. Jawabannya adalah...?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku melindungimu dari hujan. Jawabanmu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Coba pikirkan: Aku milikmu, tapi orang lain yang lebih sering memakainya. Apa jawabannya?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu ada di kamus setelah besok. Siapakah aku?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apakah kamu tahu jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku alat untuk melihat benda jauh di langit. Apa itu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon kelapa yang tumbuh di pantai. Jawabannya adalah...?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jatuh tapi tak pernah pecah. Jawabanmu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa pecah tapi tak pernah jatuh. Siapakah aku?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Clue: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apa itu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa menunjukkan waktu tanpa bicara. Jawabannya adalah...?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabanmu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku raja hutan, suaraku menggetarkan bumi. Apa jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Tebak aku: Aku melindungimu dari hujan. Siapakah aku?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apakah kamu tahu jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku menulis berita di koran. Apa itu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabannya adalah...?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabanmu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku kecil hijau di piringmu, penuh vitamin. Apa jawabannya?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu ada di kamus setelah besok. Siapakah aku?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Clue: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku bisa membuatmu menangis tanpa menyentuhmu. Apakah kamu tahu jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apa itu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengolah tanah dan menanam padi. Jawabannya adalah...?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon kelapa yang tumbuh di pantai. Jawabanmu?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Tebak aku: Aku tajam dan bisa memotong, tapi bukan gigi. Siapakah aku?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Clue: Aku mengemudikan pesawat. Apa jawabannya?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabannya adalah...?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apakah kamu tahu jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apa itu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku cahaya kecil yang bisa mengusir gelap. Jawabannya adalah...?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berwarna hitam putih dan suka bambu. Jawabanmu?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Tebak aku: Aku raja hutan, suaraku menggetarkan bumi. Siapakah aku?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Clue: Aku menyembuhkan orang sakit. Apa jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apakah kamu tahu jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apa itu?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menulis berita di koran. Jawabannya adalah...?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya roda dua dan kayuh. Apa jawabannya?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Tebak aku: Aku berdaun hijau, sering dibuat minuman teh. Siapakah aku?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Clue: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apakah kamu tahu jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apa itu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku kecil hijau di piringmu, penuh vitamin. Jawabanmu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berwarna hitam putih dan suka bambu. Apa jawabannya?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Tebak aku: Aku raja hutan, suaraku menggetarkan bumi. Siapakah aku?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Clue: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apakah kamu tahu jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku punya kaca dan bingkai, memantulkan wajahmu. Apa itu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku membuat pakaian dengan mesin jahit. Jawabannya adalah...?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya cangkang keras, jalanku lambat. Jawabanmu?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa menunjukkan waktu tanpa bicara. Apa jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Tebak aku: Aku menyembuhkan orang sakit. Siapakah aku?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Clue: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apa itu?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa berenang dan punya sirip tajam. Jawabannya adalah...?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berbiji merah kecil, pedas membakar lidah. Jawabanmu?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga putih harum, sering ada di pernikahan. Apa jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Tebak aku: Aku licin dan berjalan tanpa kaki. Siapakah aku?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Clue: Aku tak punya sayap, tapi bisa terbang jauh. Apa jawabannya?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apakah kamu tahu jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membekukan makanan. Jawabannya adalah...?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku alat untuk melihat benda jauh di langit. Jawabanmu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya tombol banyak, aku membantu menulis. Apa jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Tebak aku: Aku berbiji merah kecil, pedas membakar lidah. Siapakah aku?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Clue: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apakah kamu tahu jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apa itu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Jawabannya adalah...?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa terbang di malam hari dengan sayap kulit. Jawabanmu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menulis berita di koran. Apa jawabannya?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Tebak aku: Aku punya roda dua dan kayuh. Siapakah aku?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Clue: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apakah kamu tahu jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku bisa membuatmu menangis tanpa menyentuhmu. Apa itu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabanmu?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memadamkan api. Apa jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Tebak aku: Aku punya layar, kau menatapku setiap hari. Siapakah aku?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Clue: Aku menghibur orang dengan musik. Apa jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku cahaya kecil yang bisa mengusir gelap. Apakah kamu tahu jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku menghibur orang dengan musik. Apa itu?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku teka-teki: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Jawabannya adalah...?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berdaun hijau, sering dibuat minuman teh. Jawabanmu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku menyembuhkan orang sakit. Apa jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku pohon besar dengan akar menjuntai. Apakah kamu tahu jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apa itu?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku teka-teki: Aku sahabat manusia, suka menggonggong. Jawabannya adalah...?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabanmu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku milikmu, tapi orang lain yang lebih sering memakainya. Apa jawabannya?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apakah kamu tahu jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa itu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku penuh lubang tapi bisa menahan air. Jawabanmu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengemudikan pesawat. Apa jawabannya?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Tebak aku: Aku sahabat manusia, suka menggonggong. Siapakah aku?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Clue: Aku mengolah tanah dan menanam padi. Apa jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku ada saat kau tidur, hilang saat kau bangun. Apa itu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku memadamkan api. Jawabanmu?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa membekukan makanan. Siapakah aku?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Clue: Aku bisa pecah tapi tak pernah jatuh. Apa jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Aku punya roda dua dan kayuh. Apakah kamu tahu jawabannya?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya roda dua dan kayuh. Jawabannya adalah...?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa terbang di malam hari dengan sayap kulit. Jawabanmu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Tebak aku: Aku tempat menyimpan uang di saku. Siapakah aku?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Clue: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku bisa berenang dan punya sirip tajam. Apakah kamu tahu jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apa itu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengolah tanah dan menanam padi. Jawabannya adalah...?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa terbang di malam hari dengan sayap kulit. Siapakah aku?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Clue: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku besar dengan belalai panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Aku pohon dengan buah berduri dan bau menyengat. Apa itu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menulis berita di koran. Jawabannya adalah...?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabanmu?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa menunjukkan waktu tanpa bicara. Apa jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Tebak aku: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Siapakah aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Clue: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku bisa berenang dan punya sirip tajam. Apakah kamu tahu jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku selalu ada di kamus setelah besok. Apa itu?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tempat menyimpan uang di saku. Jawabannya adalah...?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabanmu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Tebak aku: Aku berbiji merah kecil, pedas membakar lidah. Siapakah aku?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Clue: Aku raja hutan, suaraku menggetarkan bumi. Apa jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apakah kamu tahu jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku berbiji merah kecil, pedas membakar lidah. Jawabannya adalah...?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku selalu datang tapi tak pernah tiba. Jawabanmu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Semakin kau ambil dariku, aku semakin besar. Siapakah aku?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Clue: Aku mengemudikan pesawat. Apa jawabannya?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apakah kamu tahu jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa itu?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu lapar, aku harus selalu diberi makan. Jawabannya adalah...?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menyembuhkan orang sakit. Jawabanmu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Coba pikirkan: Aku raja hutan, suaraku menggetarkan bumi. Apa jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Tebak aku: Aku punya cangkang keras, jalanku lambat. Siapakah aku?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Clue: Aku berbiji merah kecil, pedas membakar lidah. Apa jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Aku pohon besar dengan akar menjuntai. Apakah kamu tahu jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku tajam dan bisa memotong, tapi bukan gigi. Apa itu?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bunga dengan duri, sering jadi lambang cinta. Jawabannya adalah...?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabanmu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Coba pikirkan: Aku sahabat manusia, suka menggonggong. Apa jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apakah kamu tahu jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku bisa pecah tapi tak pernah jatuh. Apa itu?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabannya adalah...?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku buah bulat merah, kadang dianggap sayur. Jawabanmu?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Coba pikirkan: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga dengan duri, sering jadi lambang cinta. Siapakah aku?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Clue: Aku tak punya sayap, tapi bisa terbang jauh. Apa jawabannya?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Aku berlari tanpa kaki, aku berbicara tanpa suara. Apakah kamu tahu jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Aku raja hutan, suaraku menggetarkan bumi. Apa itu?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jatuh tapi tak pernah pecah. Jawabanmu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa jadi terang tapi juga menyakitkan. Apa jawabannya?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu ada di kamus setelah besok. Siapakah aku?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Clue: Aku bisa jatuh tapi tak pernah pecah. Apa jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apakah kamu tahu jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku bunga putih harum, sering ada di pernikahan. Apa itu?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku besar dengan belalai panjang. Jawabanmu?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Coba pikirkan: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Tebak aku: Aku penuh lubang tapi bisa menahan air. Siapakah aku?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Clue: Aku kecil hijau di piringmu, penuh vitamin. Apa jawabannya?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apakah kamu tahu jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apa itu?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa pecah tapi tak pernah jatuh. Jawabannya adalah...?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku kecil hijau di piringmu, penuh vitamin. Jawabanmu?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengolah tanah dan menanam padi. Apa jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa menunjukkan waktu tanpa bicara. Siapakah aku?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Clue: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apakah kamu tahu jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku memadamkan api. Apa itu?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu ada di kamus setelah besok. Jawabannya adalah...?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabanmu?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa membekukan makanan. Apa jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Tebak aku: Aku melindungimu dari hujan. Siapakah aku?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Clue: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku sahabat manusia, suka menggonggong. Apakah kamu tahu jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apa itu?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengajar murid di sekolah. Jawabannya adalah...?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jatuh tapi tak pernah pecah. Jawabanmu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku raja hutan, suaraku menggetarkan bumi. Apa jawabannya?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Tebak aku: Aku licin dan berjalan tanpa kaki. Siapakah aku?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Clue: Aku bisa berenang dan punya sirip tajam. Apa jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apakah kamu tahu jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku bisa membuatmu menangis tanpa menyentuhmu. Apa itu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa berenang dan punya sirip tajam. Jawabanmu?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Tebak aku: Aku mengolah tanah dan menanam padi. Siapakah aku?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Clue: Aku selalu datang tapi tak pernah tiba. Apa jawabannya?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apakah kamu tahu jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa itu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku melindungimu dari hujan. Jawabanmu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengendarai kapal di laut. Apa jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Tebak aku: Aku membuat pakaian dengan mesin jahit. Siapakah aku?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Clue: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku pohon kelapa yang tumbuh di pantai. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa itu?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengajar murid di sekolah. Jawabannya adalah...?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa menunjukkan waktu tanpa bicara. Jawabanmu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Tebak aku: Aku memadamkan api. Siapakah aku?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Clue: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku berbiji merah kecil, pedas membakar lidah. Apakah kamu tahu jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Aku berbiji merah kecil, pedas membakar lidah. Apa itu?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Aku teka-teki: Aku besar dengan belalai panjang. Jawabannya adalah...?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku alat untuk melihat benda jauh di langit. Jawabanmu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa jadi terang tapi juga menyakitkan. Siapakah aku?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Clue: Aku bisa terbang di malam hari dengan sayap kulit. Apa jawabannya?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa itu?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku teka-teki: Aku penuh lubang tapi bisa menahan air. Jawabannya adalah...?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku licin dan berjalan tanpa kaki. Jawabanmu?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Siapakah aku?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Clue: Aku mengolah tanah dan menanam padi. Apa jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apakah kamu tahu jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku tajam dan bisa memotong, tapi bukan gigi. Apa itu?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya roda dua dan kayuh. Jawabannya adalah...?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Jawabanmu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berwarna hitam putih dan suka bambu. Apa jawabannya?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku berdaun hijau, sering dibuat minuman teh. Apa jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku bisa pecah tapi tak pernah jatuh. Apakah kamu tahu jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa itu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengendarai kapal di laut. Jawabannya adalah...?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengendarai kapal di laut. Jawabanmu?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku milikmu, tapi orang lain yang lebih sering memakainya. Siapakah aku?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Clue: Aku bisa jatuh tapi tak pernah pecah. Apa jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku bisa menunjukkan waktu tanpa bicara. Apakah kamu tahu jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apa itu?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menulis berita di koran. Jawabannya adalah...?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bertanduk, sering ada di sawah. Jawabanmu?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu ada di kamus setelah besok. Apa jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apakah kamu tahu jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku pohon kelapa yang tumbuh di pantai. Apa itu?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa pecah tapi tak pernah jatuh. Jawabannya adalah...?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku besar dengan belalai panjang. Jawabanmu?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengemudikan pesawat. Apa jawabannya?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Tebak aku: Aku tajam dan bisa memotong, tapi bukan gigi. Siapakah aku?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Clue: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku licin dan berjalan tanpa kaki. Apakah kamu tahu jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku selalu datang tapi tak pernah tiba. Apa itu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu ada di kamus setelah besok. Jawabannya adalah...?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya roda dua dan kayuh. Jawabanmu?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa jatuh tapi tak pernah pecah. Siapakah aku?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku berbiji merah kecil, pedas membakar lidah. Apakah kamu tahu jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Aku bisa terbang di malam hari dengan sayap kulit. Apa itu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya cangkang keras, jalanku lambat. Jawabannya adalah...?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku memadamkan api. Jawabanmu?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Tebak aku: Aku menghibur orang dengan musik. Siapakah aku?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Clue: Aku bisa jadi terang tapi juga menyakitkan. Apa jawabannya?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apakah kamu tahu jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apa itu?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya tombol banyak, aku membantu menulis. Jawabannya adalah...?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku selalu ada di kamus setelah besok. Jawabanmu?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon besar dengan akar menjuntai. Siapakah aku?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Clue: Aku menghibur orang dengan musik. Apa jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apakah kamu tahu jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku menulis berita di koran. Apa itu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku melindungimu dari hujan. Jawabannya adalah...?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menyembuhkan orang sakit. Jawabanmu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku bisa membuatmu menangis tanpa menyentuhmu. Apakah kamu tahu jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengemudikan pesawat. Jawabannya adalah...?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa jadi terang tapi juga menyakitkan. Apa jawabannya?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Tebak aku: Aku punya roda dua dan kayuh. Siapakah aku?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Clue: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apakah kamu tahu jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa itu?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menulis berita di koran. Jawabannya adalah...?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabanmu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku selalu ada di kamus setelah besok. Apa jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku bisa pecah tapi tak pernah jatuh. Apakah kamu tahu jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Aku bisa menunjukkan waktu tanpa bicara. Apa itu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku ada saat kau tidur, hilang saat kau bangun. Jawabanmu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Aku alat untuk melihat benda jauh di langit. Siapakah aku?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Clue: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apakah kamu tahu jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku berwarna hitam putih dan suka bambu. Apa itu?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa berenang dan punya sirip tajam. Jawabannya adalah...?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabanmu?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga putih harum, sering ada di pernikahan. Siapakah aku?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku melindungimu dari hujan. Apakah kamu tahu jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengajar murid di sekolah. Jawabannya adalah...?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku sahabat manusia, suka menggonggong. Jawabanmu?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa terbang di malam hari dengan sayap kulit. Siapakah aku?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Clue: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku buah bulat merah, kadang dianggap sayur. Apakah kamu tahu jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apa itu?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membekukan makanan. Jawabanmu?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Tebak aku: Aku berdaun hijau, sering dibuat minuman teh. Siapakah aku?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Clue: Aku punya roda dua dan kayuh. Apa jawabannya?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apakah kamu tahu jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Semakin kau ambil dariku, aku semakin besar. Apa itu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa terbang di malam hari dengan sayap kulit. Jawabannya adalah...?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menulis berita di koran. Jawabanmu?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa pecah tapi tak pernah jatuh. Siapakah aku?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Clue: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apa itu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Jawabannya adalah...?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon dengan buah berduri dan bau menyengat. Apa jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Tebak aku: Aku punya tombol banyak, aku membantu menulis. Siapakah aku?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Clue: Aku membuat desain bangunan. Apa jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apakah kamu tahu jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa itu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya roda dua dan kayuh. Jawabannya adalah...?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon dengan buah berduri dan bau menyengat. Jawabanmu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Coba pikirkan: Aku cahaya kecil yang bisa mengusir gelap. Apa jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Tebak aku: Aku mengolah tanah dan menanam padi. Siapakah aku?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Clue: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku cahaya kecil yang bisa mengusir gelap. Apakah kamu tahu jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apa itu?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada saat kau tidur, hilang saat kau bangun. Jawabannya adalah...?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabanmu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tajam dan bisa memotong, tapi bukan gigi. Apa jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Tebak aku: Aku mengajar murid di sekolah. Siapakah aku?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Clue: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa itu?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengolah tanah dan menanam padi. Jawabannya adalah...?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku ada saat kau tidur, hilang saat kau bangun. Jawabanmu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menyembuhkan orang sakit. Apa jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Tebak aku: Aku menulis berita di koran. Siapakah aku?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Clue: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku bunga putih harum, sering ada di pernikahan. Apakah kamu tahu jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku pohon dengan buah berduri dan bau menyengat. Apa itu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jadi terang tapi juga menyakitkan. Jawabannya adalah...?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa menunjukkan waktu tanpa bicara. Jawabanmu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku cahaya kecil yang bisa mengusir gelap. Apa jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa pecah tapi tak pernah jatuh. Siapakah aku?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Clue: Aku kecil hijau di piringmu, penuh vitamin. Apa jawabannya?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apakah kamu tahu jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku bunga putih harum, sering ada di pernikahan. Apa itu?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabannya adalah...?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Tebak aku: Aku punya tombol banyak, aku membantu menulis. Siapakah aku?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Clue: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apakah kamu tahu jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apa itu?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membekukan makanan. Jawabannya adalah...?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku alat untuk melihat benda jauh di langit. Jawabanmu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Siapakah aku?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Clue: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku berlari tanpa kaki, aku berbicara tanpa suara. Apa itu?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membekukan makanan. Jawabannya adalah...?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku raja hutan, suaraku menggetarkan bumi. Jawabanmu?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Tebak aku: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Siapakah aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku bunga putih harum, sering ada di pernikahan. Apakah kamu tahu jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa itu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku teka-teki: Aku melindungimu dari hujan. Jawabannya adalah...?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku penuh lubang tapi bisa menahan air. Apa jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Tebak aku: Aku menulis berita di koran. Siapakah aku?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Clue: Aku mengendarai kapal di laut. Apa jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku tempat menyimpan uang di saku. Apakah kamu tahu jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Aku bisa jadi terang tapi juga menyakitkan. Apa itu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bunga putih harum, sering ada di pernikahan. Jawabannya adalah...?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Semakin kau ambil dariku, aku semakin besar. Jawabanmu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Tebak aku: Aku memadamkan api. Siapakah aku?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Clue: Aku alat untuk melihat benda jauh di langit. Apa jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku pohon besar dengan akar menjuntai. Apakah kamu tahu jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apa itu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku teka-teki: Aku berlari tanpa kaki, aku berbicara tanpa suara. Jawabannya adalah...?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon dengan buah berduri dan bau menyengat. Apa jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Tebak aku: Aku licin dan berjalan tanpa kaki. Siapakah aku?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Clue: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa itu?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya cangkang keras, jalanku lambat. Jawabannya adalah...?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku membuat desain bangunan. Jawabanmu?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa jadi terang tapi juga menyakitkan. Siapakah aku?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Clue: Aku menyembuhkan orang sakit. Apa jawabannya?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apakah kamu tahu jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa itu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tajam dan bisa memotong, tapi bukan gigi. Jawabannya adalah...?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku buah bulat merah, kadang dianggap sayur. Jawabanmu?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Coba pikirkan: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga dengan duri, sering jadi lambang cinta. Siapakah aku?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Clue: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku selalu ada di kamus setelah besok. Apakah kamu tahu jawabannya?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa menunjukkan waktu tanpa bicara. Jawabannya adalah...?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon dengan buah berduri dan bau menyengat. Jawabanmu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengajar murid di sekolah. Apa jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku punya kaca dan bingkai, memantulkan wajahmu. Apa jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku punya kaca dan bingkai, memantulkan wajahmu. Apakah kamu tahu jawabannya?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku selalu datang tapi tak pernah tiba. Apa itu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengendarai kapal di laut. Jawabannya adalah...?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku melindungimu dari hujan. Jawabanmu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tempat menyimpan uang di saku. Apa jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Tebak aku: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Siapakah aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Clue: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku berwarna hitam putih dan suka bambu. Apakah kamu tahu jawabannya?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu ada di kamus setelah besok. Jawabannya adalah...?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengajar murid di sekolah. Jawabanmu?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apakah kamu tahu jawabannya?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apa itu?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengajar murid di sekolah. Jawabannya adalah...?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku alat untuk melihat benda jauh di langit. Jawabanmu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon tinggi dengan buah manis berwarna kuning. Siapakah aku?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Clue: Aku cahaya kecil yang bisa mengusir gelap. Apa jawabannya?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apa itu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu ada di kamus setelah besok. Jawabannya adalah...?",
+    "jawaban": "kemarin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jadi terang tapi juga menyakitkan. Jawabanmu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Tebak aku: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Siapakah aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Clue: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku membuat pakaian dengan mesin jahit. Apakah kamu tahu jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku ada saat kau tidur, hilang saat kau bangun. Apa itu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon kelapa yang tumbuh di pantai. Jawabannya adalah...?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku alat untuk melihat benda jauh di langit. Jawabanmu?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada saat kau tidur, hilang saat kau bangun. Apa jawabannya?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Tebak aku: Aku memadamkan api. Siapakah aku?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Clue: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apakah kamu tahu jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku selalu datang tapi tak pernah tiba. Apa itu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa berenang dan punya sirip tajam. Jawabannya adalah...?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jadi terang tapi juga menyakitkan. Jawabanmu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa pecah tapi tak pernah jatuh. Apa jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Tebak aku: Aku menyembuhkan orang sakit. Siapakah aku?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Clue: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku alat untuk melihat benda jauh di langit. Apakah kamu tahu jawabannya?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Aku mengolah tanah dan menanam padi. Apa itu?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Jawabannya adalah...?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku penuh lubang tapi bisa menahan air. Jawabanmu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon besar dengan akar menjuntai. Siapakah aku?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Clue: Aku mengendarai kapal di laut. Apa jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku mengolah tanah dan menanam padi. Apakah kamu tahu jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku selalu datang tapi tak pernah tiba. Apa itu?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Aku teka-teki: Aku menyembuhkan orang sakit. Jawabannya adalah...?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa berenang dan punya sirip tajam. Jawabanmu?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa membekukan makanan. Apa jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Tebak aku: Aku kecil hijau di piringmu, penuh vitamin. Siapakah aku?",
+    "jawaban": "bayam"
+  },
+  {
+    "soal": "Clue: Aku buah bulat merah, kadang dianggap sayur. Apa jawabannya?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apakah kamu tahu jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku penuh lubang tapi bisa menahan air. Apa itu?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabannya adalah...?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku buah bulat merah, kadang dianggap sayur. Jawabanmu?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon dengan buah berduri dan bau menyengat. Apa jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Tebak aku: Aku menulis berita di koran. Siapakah aku?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Clue: Aku mengolah tanah dan menanam padi. Apa jawabannya?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apakah kamu tahu jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku cahaya kecil yang bisa mengusir gelap. Jawabannya adalah...?",
+    "jawaban": "lilin"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jatuh tapi tak pernah pecah. Jawabanmu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku membuat desain bangunan. Apa jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Tebak aku: Aku bunga putih harum, sering ada di pernikahan. Siapakah aku?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Clue: Aku sahabat manusia, suka menggonggong. Apa jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku mengendarai kapal di laut. Apakah kamu tahu jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apa itu?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berlari tanpa kaki, aku berbicara tanpa suara. Jawabanmu?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku menghibur orang dengan musik. Siapakah aku?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Clue: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Aku menghibur orang dengan musik. Apakah kamu tahu jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa itu?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jatuh tapi tak pernah pecah. Jawabannya adalah...?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku menyembuhkan orang sakit. Jawabanmu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memadamkan api. Apa jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Tebak aku: Aku membuat desain bangunan. Siapakah aku?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Clue: Aku bisa berenang dan punya sirip tajam. Apa jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku punya cangkang keras, jalanku lambat. Apa itu?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa pecah tapi tak pernah jatuh. Jawabannya adalah...?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Semakin kau ambil dariku, aku semakin besar. Jawabanmu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Apa jawabannya?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Tebak aku: Aku mengolah tanah dan menanam padi. Siapakah aku?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Clue: Aku punya cangkang keras, jalanku lambat. Apa jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku bisa membekukan makanan. Apakah kamu tahu jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku pohon dengan buah berduri dan bau menyengat. Apa itu?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa menunjukkan waktu tanpa bicara. Jawabannya adalah...?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bertanduk, sering ada di sawah. Jawabanmu?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon dengan buah berduri dan bau menyengat. Apa jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu datang tapi tak pernah tiba. Siapakah aku?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Clue: Aku pohon kelapa yang tumbuh di pantai. Apa jawabannya?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apakah kamu tahu jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku punya layar, kau menatapku setiap hari. Apa itu?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membekukan makanan. Jawabannya adalah...?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengajar murid di sekolah. Jawabanmu?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya layar, kau menatapku setiap hari. Apa jawabannya?",
+    "jawaban": "ponsel"
+  },
+  {
+    "soal": "Tebak aku: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Siapakah aku?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Clue: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku bertanduk, sering ada di sawah. Apakah kamu tahu jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Apa itu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku teka-teki: Aku mengajar murid di sekolah. Jawabannya adalah...?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabanmu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku mengendarai kapal di laut. Apa jawabannya?",
+    "jawaban": "nahkoda"
+  },
+  {
+    "soal": "Tebak aku: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Siapakah aku?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Clue: Aku bunga putih harum, sering ada di pernikahan. Apa jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku membuat desain bangunan. Apakah kamu tahu jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa itu?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku teka-teki: Aku selalu lapar, aku harus selalu diberi makan. Jawabannya adalah...?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berlari tanpa kaki, aku berbicara tanpa suara. Jawabanmu?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku membuat pakaian dengan mesin jahit. Apa jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Tebak aku: Aku mengajar murid di sekolah. Siapakah aku?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Clue: Aku membuat desain bangunan. Apa jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku berlari tanpa kaki, aku berbicara tanpa suara. Apakah kamu tahu jawabannya?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "Aku ada saat kau tidur, hilang saat kau bangun. Apa itu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku melindungimu dari hujan. Jawabanmu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada saat kau tidur, hilang saat kau bangun. Apa jawabannya?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Tebak aku: Aku besar dengan belalai panjang. Siapakah aku?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Clue: Aku licin dan berjalan tanpa kaki. Apa jawabannya?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Aku punya cangkang keras, jalanku lambat. Apakah kamu tahu jawabannya?",
+    "jawaban": "kura-kura"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apa itu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jatuh tapi tak pernah pecah. Jawabannya adalah...?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabanmu?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya roda dua dan kayuh. Apa jawabannya?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon kelapa yang tumbuh di pantai. Siapakah aku?",
+    "jawaban": "kelapa"
+  },
+  {
+    "soal": "Clue: Aku bunga putih harum, sering ada di pernikahan. Apa jawabannya?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Aku tajam dan bisa memotong, tapi bukan gigi. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisau"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apa itu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabannya adalah...?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa jatuh tapi tak pernah pecah. Jawabanmu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku memadamkan api. Apa jawabannya?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Tebak aku: Aku pohon dengan buah berduri dan bau menyengat. Siapakah aku?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Clue: Aku menulis berita di koran. Apa jawabannya?",
+    "jawaban": "wartawan"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa itu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku teka-teki: Aku ada di depanmu, tapi tak pernah bisa kau lihat. Jawabannya adalah...?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon besar dengan akar menjuntai. Jawabanmu?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku pohon tinggi dengan buah manis berwarna kuning. Apa jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Tebak aku: Aku penuh lubang tapi bisa menahan air. Siapakah aku?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Clue: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku pohon tinggi dengan buah manis berwarna kuning. Apakah kamu tahu jawabannya?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Aku bisa jadi terang tapi juga menyakitkan. Apa itu?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jadi terang tapi juga menyakitkan. Jawabannya adalah...?",
+    "jawaban": "matahari"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku punya kaca dan bingkai, memantulkan wajahmu. Jawabanmu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Coba pikirkan: Aku selalu lapar, aku harus selalu diberi makan. Apa jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Tebak aku: Aku tak punya sayap, tapi bisa terbang jauh. Siapakah aku?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Clue: Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa jawabannya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku bisa berenang dan punya sirip tajam. Apakah kamu tahu jawabannya?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Aku punya kaca dan bingkai, memantulkan wajahmu. Apa itu?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa jatuh tapi tak pernah pecah. Jawabannya adalah...?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa terbang di malam hari dengan sayap kulit. Jawabanmu?",
+    "jawaban": "kelelawar"
+  },
+  {
+    "soal": "Coba pikirkan: Aku punya tombol banyak, aku membantu menulis. Apa jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Tebak aku: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Siapakah aku?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Clue: Aku bisa membuatmu menangis tanpa menyentuhmu. Apa jawabannya?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Semakin kau ambil dariku, aku semakin besar. Apakah kamu tahu jawabannya?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Aku ringan seperti bulu, tapi orang kuat pun sulit menahanku lama. Apa itu?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bunga putih harum, sering ada di pernikahan. Jawabannya adalah...?",
+    "jawaban": "melati"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa membekukan makanan. Jawabanmu?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa pecah tapi tak pernah jatuh. Apa jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa berenang dan punya sirip tajam. Siapakah aku?",
+    "jawaban": "hiu"
+  },
+  {
+    "soal": "Clue: Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku bisa menunjukkan waktu tanpa bicara. Apakah kamu tahu jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Aku berdaun hijau, sering dibuat minuman teh. Apa itu?",
+    "jawaban": "teh"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku sahabat manusia, suka menggonggong. Jawabanmu?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tempat menyimpan uang di saku. Apa jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu datang tapi tak pernah tiba. Siapakah aku?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Clue: Aku membuat pakaian dengan mesin jahit. Apa jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku bisa menunjukkan waktu tanpa bicara. Apakah kamu tahu jawabannya?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Aku milikmu, tapi orang lain yang lebih sering memakainya. Apa itu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa membuatmu menangis tanpa menyentuhmu. Jawabannya adalah...?",
+    "jawaban": "kenangan"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku milikmu, tapi orang lain yang lebih sering memakainya. Jawabanmu?",
+    "jawaban": "nama"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tak punya sayap, tapi bisa terbang jauh. Apa jawabannya?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Tebak aku: Aku menyembuhkan orang sakit. Siapakah aku?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Clue: Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apa jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apakah kamu tahu jawabannya?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apa itu?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku membuat desain bangunan. Jawabannya adalah...?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berbiji merah kecil, pedas membakar lidah. Jawabanmu?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apa jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Tebak aku: Aku selalu datang tapi tak pernah tiba. Siapakah aku?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "Clue: Aku mengajar murid di sekolah. Apa jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apakah kamu tahu jawabannya?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bertanduk, sering ada di sawah. Jawabannya adalah...?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengemudikan pesawat. Jawabanmu?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bisa pecah tapi tak pernah jatuh. Apa jawabannya?",
+    "jawaban": "fajar"
+  },
+  {
+    "soal": "Tebak aku: Aku bisa membekukan makanan. Siapakah aku?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Clue: Aku membuat pakaian dengan mesin jahit. Apa jawabannya?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku bunga dengan duri, sering jadi lambang cinta. Apa itu?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Aku teka-teki: Aku pohon dengan buah berduri dan bau menyengat. Jawabannya adalah...?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak punya sayap, tapi bisa terbang jauh. Jawabanmu?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Coba pikirkan: Aku melindungimu dari hujan. Apa jawabannya?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Tebak aku: Aku mengolah tanah dan menanam padi. Siapakah aku?",
+    "jawaban": "petani"
+  },
+  {
+    "soal": "Clue: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Apa jawabannya?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Aku ada saat kau tidur, hilang saat kau bangun. Apakah kamu tahu jawabannya?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apa itu?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku teka-teki: Semakin kau ambil dariku, aku semakin besar. Jawabannya adalah...?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku melindungimu dari hujan. Jawabanmu?",
+    "jawaban": "payung"
+  },
+  {
+    "soal": "Coba pikirkan: Aku menghibur orang dengan musik. Apa jawabannya?",
+    "jawaban": "musisi"
+  },
+  {
+    "soal": "Tebak aku: Aku buah bulat merah, kadang dianggap sayur. Siapakah aku?",
+    "jawaban": "tomat"
+  },
+  {
+    "soal": "Clue: Aku bisa membekukan makanan. Apa jawabannya?",
+    "jawaban": "kulkas"
+  },
+  {
+    "soal": "Aku mengajar murid di sekolah. Apakah kamu tahu jawabannya?",
+    "jawaban": "guru"
+  },
+  {
+    "soal": "Aku punya tombol banyak, aku membantu menulis. Apa itu?",
+    "jawaban": "keyboard"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak hidup tapi bisa tumbuh, tak punya paru-paru tapi butuh angin, takut pada air. Jawabannya adalah...?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku berwarna hitam putih dan suka bambu. Jawabanmu?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Coba pikirkan: Aku penuh lubang tapi bisa menahan air. Apa jawabannya?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "Tebak aku: Aku membuat pakaian dengan mesin jahit. Siapakah aku?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Clue: Aku membuat desain bangunan. Apa jawabannya?",
+    "jawaban": "arsitek"
+  },
+  {
+    "soal": "Aku pohon dengan buah berduri dan bau menyengat. Apakah kamu tahu jawabannya?",
+    "jawaban": "durian"
+  },
+  {
+    "soal": "Aku ada saat kau tidur, hilang saat kau bangun. Apa itu?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Aku teka-teki: Aku alat untuk melihat benda jauh di langit. Jawabannya adalah...?",
+    "jawaban": "teleskop"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku memadamkan api. Jawabanmu?",
+    "jawaban": "pemadam kebakaran"
+  },
+  {
+    "soal": "Coba pikirkan: Aku ada saat kau tidur, hilang saat kau bangun. Apa jawabannya?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "Tebak aku: Aku licin dan berjalan tanpa kaki. Siapakah aku?",
+    "jawaban": "ular"
+  },
+  {
+    "soal": "Clue: Aku bertanduk, sering ada di sawah. Apa jawabannya?",
+    "jawaban": "kerbau"
+  },
+  {
+    "soal": "Aku bisa jatuh tapi tak pernah pecah. Apakah kamu tahu jawabannya?",
+    "jawaban": "malam"
+  },
+  {
+    "soal": "Aku bisa menunjukkan waktu tanpa bicara. Apa itu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Aku teka-teki: Aku punya roda dua dan kayuh. Jawabannya adalah...?",
+    "jawaban": "sepeda"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku bisa menunjukkan waktu tanpa bicara. Jawabanmu?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "Coba pikirkan: Aku berbiji merah kecil, pedas membakar lidah. Apa jawabannya?",
+    "jawaban": "cabai"
+  },
+  {
+    "soal": "Tebak aku: Aku berwarna hitam putih dan suka bambu. Siapakah aku?",
+    "jawaban": "panda"
+  },
+  {
+    "soal": "Clue: Aku tak punya sayap, tapi bisa terbang jauh. Apa jawabannya?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Aku selalu bersamamu di siang hari, tapi hilang di malam hari. Apakah kamu tahu jawabannya?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "Aku memiliki banyak kunci tapi tak bisa membuka pintu. Apa itu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "Aku teka-teki: Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Jawabannya adalah...?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku tak bisa dilihat, tapi bisa dirasakan dan didengar. Jawabanmu?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "Coba pikirkan: Aku bunga dengan duri, sering jadi lambang cinta. Apa jawabannya?",
+    "jawaban": "mawar"
+  },
+  {
+    "soal": "Tebak aku: Aku mengemudikan pesawat. Siapakah aku?",
+    "jawaban": "pilot"
+  },
+  {
+    "soal": "Clue: Aku pohon besar dengan akar menjuntai. Apa jawabannya?",
+    "jawaban": "beringin"
+  },
+  {
+    "soal": "Aku selalu lapar, aku harus selalu diberi makan. Apakah kamu tahu jawabannya?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "Aku menyembuhkan orang sakit. Apa itu?",
+    "jawaban": "dokter"
+  },
+  {
+    "soal": "Aku teka-teki: Aku tak punya sayap, tapi bisa terbang jauh. Jawabannya adalah...?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku pohon tinggi dengan buah manis berwarna kuning. Jawabanmu?",
+    "jawaban": "pisang"
+  },
+  {
+    "soal": "Coba pikirkan: Aku tempat menyimpan uang di saku. Apa jawabannya?",
+    "jawaban": "dompet"
+  },
+  {
+    "soal": "Tebak aku: Aku membuat pakaian dengan mesin jahit. Siapakah aku?",
+    "jawaban": "penjahit"
+  },
+  {
+    "soal": "Clue: Aku sahabat manusia, suka menggonggong. Apa jawabannya?",
+    "jawaban": "anjing"
+  },
+  {
+    "soal": "Aku bisa melompat tapi bukan katak, buluku lembut dan telingaku panjang. Apakah kamu tahu jawabannya?",
+    "jawaban": "kelinci"
+  },
+  {
+    "soal": "Aku besar dengan belalai panjang. Apa itu?",
+    "jawaban": "gajah"
+  },
+  {
+    "soal": "Aku teka-teki: Aku raja hutan, suaraku menggetarkan bumi. Jawabannya adalah...?",
+    "jawaban": "singa"
+  },
+  {
+    "soal": "Pertanyaan untukmu: Aku mengendarai kapal di laut. Jawabanmu?",
+    "jawaban": "nahkoda"
+  }
+]
