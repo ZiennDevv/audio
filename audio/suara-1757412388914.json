@@ -1,0 +1,4002 @@
+[
+  {
+    "pertanyaan": "Lengkapi: Air berubah menjadi gas pada proses _____",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi: Tumbuhan membuat makanan melalui proses _____",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi: Satuan SI untuk usaha adalah _____",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi: Gas yang paling banyak di atmosfer bumi adalah _____",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi: Unsur dengan simbol Na adalah _____",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi: Gerak bumi mengelilingi matahari disebut _____",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi: Larutan dengan pH < 7 bersifat _____",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi: Hukum III Newton dikenal dengan aksi dan _____",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi: Struktur data FIFO disebut _____",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi: Bahasa kueri standar basis data relasional adalah _____",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi: Alamat unik di internet dikenal sebagai _____",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Kazakhstan adalah _____",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Turki adalah _____",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Kanada adalah _____",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Australia adalah _____",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Ethiopia adalah _____",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi: Antonim 'eksplisit' adalah _____",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi: Antonim 'objektif' adalah _____",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi: Sinonim 'rigid' adalah _____",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi: Sinonim 'ambiguitas' adalah _____",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi: Peribahasa: Besar pasak daripada _____",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi: Peribahasa: Air beriak tanda tak _____",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi: Kalimat definisi cenderung berpola _____",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi: Bentuk baku dari 'resiko' adalah _____",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi: Bentuk baku dari 'analisa' adalah _____",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi: Ibukota Vietnam adalah _____",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi: Planet terbesar di tata surya adalah _____",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi: Garis lintang 0 derajat disebut _____",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi: Alat ukur tekanan udara adalah _____",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 60)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 61)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 62)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 63)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 64)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 65)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 66)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 67)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 68)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 69)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 70)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 71)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 72)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 73)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 74)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 75)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 76)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 77)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 78)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 79)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 80)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 81)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 82)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 83)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 84)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 85)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 86)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 87)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 88)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 89)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 90)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 91)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 92)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 93)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 94)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 95)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 96)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 97)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 98)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 99)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 100)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 101)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 102)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 103)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 104)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 105)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 106)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 107)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 108)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 109)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 110)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 111)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 112)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 113)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 114)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 115)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 116)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 117)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 118)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 119)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 120)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 121)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 122)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 123)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 124)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 125)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 126)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 127)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 128)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 129)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 130)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 131)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 132)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 133)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 134)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 135)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 136)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 137)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 138)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 139)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 140)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 141)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 142)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 143)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 144)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 145)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 146)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 147)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 148)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 149)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 150)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 151)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 152)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 153)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 154)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 155)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 156)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 157)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 158)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 159)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 160)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 161)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 162)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 163)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 164)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 165)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 166)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 167)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 168)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 169)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 170)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 171)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 172)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 173)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 174)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 175)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 176)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 177)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 178)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 179)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 180)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 181)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 182)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 183)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 184)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 185)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 186)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 187)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 188)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 189)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 190)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 191)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 192)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 193)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 194)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 195)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 196)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 197)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 198)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 199)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 200)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 201)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 202)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 203)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 204)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 205)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 206)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 207)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 208)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 209)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 210)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 211)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 212)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 213)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 214)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 215)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 216)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 217)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 218)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 219)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 220)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 221)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 222)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 223)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 224)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 225)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 226)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 227)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 228)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 229)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 230)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 231)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 232)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 233)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 234)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 235)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 236)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 237)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 238)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 239)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 240)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 241)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 242)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 243)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 244)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 245)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 246)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 247)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 248)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 249)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 250)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 251)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 252)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 253)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 254)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 255)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 256)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 257)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 258)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 259)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 260)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 261)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 262)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 263)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 264)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 265)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 266)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 267)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 268)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 269)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 270)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 271)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 272)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 273)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 274)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 275)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 276)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 277)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 278)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 279)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 280)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 281)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 282)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 283)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 284)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 285)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 286)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 287)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 288)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 289)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 290)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 291)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 292)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 293)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 294)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 295)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 296)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 297)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 298)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 299)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 300)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 301)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 302)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 303)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 304)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 305)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 306)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 307)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 308)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 309)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 310)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 311)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 312)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 313)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 314)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 315)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 316)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 317)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 318)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 319)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 320)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 321)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 322)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 323)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 324)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 325)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 326)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 327)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 328)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 329)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 330)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 331)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 332)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 333)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 334)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 335)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 336)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 337)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 338)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 339)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 340)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 341)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 342)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 343)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 344)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 345)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 346)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 347)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 348)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 349)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 350)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 351)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 352)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 353)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 354)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 355)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 356)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 357)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 358)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 359)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 360)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 361)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 362)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 363)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 364)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 365)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 366)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 367)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 368)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 369)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 370)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 371)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 372)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 373)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 374)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 375)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 376)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 377)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 378)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 379)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 380)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 381)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 382)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 383)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 384)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 385)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 386)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 387)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 388)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 389)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 390)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 391)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 392)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 393)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 394)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 395)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 396)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 397)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 398)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 399)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 400)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 401)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 402)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 403)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 404)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 405)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 406)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 407)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 408)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 409)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 410)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 411)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 412)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 413)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 414)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 415)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 416)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 417)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 418)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 419)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 420)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 421)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 422)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 423)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 424)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 425)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 426)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 427)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 428)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 429)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 430)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 431)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 432)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 433)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 434)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 435)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 436)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 437)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 438)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 439)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 440)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 441)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 442)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 443)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 444)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 445)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 446)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 447)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 448)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 449)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 450)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 451)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 452)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 453)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 454)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 455)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 456)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 457)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 458)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 459)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 460)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 461)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 462)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 463)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 464)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 465)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 466)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 467)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 468)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 469)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 470)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 471)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 472)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 473)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 474)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 475)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 476)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 477)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 478)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 479)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 480)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 481)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 482)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 483)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 484)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 485)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 486)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 487)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 488)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 489)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 490)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 491)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 492)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 493)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 494)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 495)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 496)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 497)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 498)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 499)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 500)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 501)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 502)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 503)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 504)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 505)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 506)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 507)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 508)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 509)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 510)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 511)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 512)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 513)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 514)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 515)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 516)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 517)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 518)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 519)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 520)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 521)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 522)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 523)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 524)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 525)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 526)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 527)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 528)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 529)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 530)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 531)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 532)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 533)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 534)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 535)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 536)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 537)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 538)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 539)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 540)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 541)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 542)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 543)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 544)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 545)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 546)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 547)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 548)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 549)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 550)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 551)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 552)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 553)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 554)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 555)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 556)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 557)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 558)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 559)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 560)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 561)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 562)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 563)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 564)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 565)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 566)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 567)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 568)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 569)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 570)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 571)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 572)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 573)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 574)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 575)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 576)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 577)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 578)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 579)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 580)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 581)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 582)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 583)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 584)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 585)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 586)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 587)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 588)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 589)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 590)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 591)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 592)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 593)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 594)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 595)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 596)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 597)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 598)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 599)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 600)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 601)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 602)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 603)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 604)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 605)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 606)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 607)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 608)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 609)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 610)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 611)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 612)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 613)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 614)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 615)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 616)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 617)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 618)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 619)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 620)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 621)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 622)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 623)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 624)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 625)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 626)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 627)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 628)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 629)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 630)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 631)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 632)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 633)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 634)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 635)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 636)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 637)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 638)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 639)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 640)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 641)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 642)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 643)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 644)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 645)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 646)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 647)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 648)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 649)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 650)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 651)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 652)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 653)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 654)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 655)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 656)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 657)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 658)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 659)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 660)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 661)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 662)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 663)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 664)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 665)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 666)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 667)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 668)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 669)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 670)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 671)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 672)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 673)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 674)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 675)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 676)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 677)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 678)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 679)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 680)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 681)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 682)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 683)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 684)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 685)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 686)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 687)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 688)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 689)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 690)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 691)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 692)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 693)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 694)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 695)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 696)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 697)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 698)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 699)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 700)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 701)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 702)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 703)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 704)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 705)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 706)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 707)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 708)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 709)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 710)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 711)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 712)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 713)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 714)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 715)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 716)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 717)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 718)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 719)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 720)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 721)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 722)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 723)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 724)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 725)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 726)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 727)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 728)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 729)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 730)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 731)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 732)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 733)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 734)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 735)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 736)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 737)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 738)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 739)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 740)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 741)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 742)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 743)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 744)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 745)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 746)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 747)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 748)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 749)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 750)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 751)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 752)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 753)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 754)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 755)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 756)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 757)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 758)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 759)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 760)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 761)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 762)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 763)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 764)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 765)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 766)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 767)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 768)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 769)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 770)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 771)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 772)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 773)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 774)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 775)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 776)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 777)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 778)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 779)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 780)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 781)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 782)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 783)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 784)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 785)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 786)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 787)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 788)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 789)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 790)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 791)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 792)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 793)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 794)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 795)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 796)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 797)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 798)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 799)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 800)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 801)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 802)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 803)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 804)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 805)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 806)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 807)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 808)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 809)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 810)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 811)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 812)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 813)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 814)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 815)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 816)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 817)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 818)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 819)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 820)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 821)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 822)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 823)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 824)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 825)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 826)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 827)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 828)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 829)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 830)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 831)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 832)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 833)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 834)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 835)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 836)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 837)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 838)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 839)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 840)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 841)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 842)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 843)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 844)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 845)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 846)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 847)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 848)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 849)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 850)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 851)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 852)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 853)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 854)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 855)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 856)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 857)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 858)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 859)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 860)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 861)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 862)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 863)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 864)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 865)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 866)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 867)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 868)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 869)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 870)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 871)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 872)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 873)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 874)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 875)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 876)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 877)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 878)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 879)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 880)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 881)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 882)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 883)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 884)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 885)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 886)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 887)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 888)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 889)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 890)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 891)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 892)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 893)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 894)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 895)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 896)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 897)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 898)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 899)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 900)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 901)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 902)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 903)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 904)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 905)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 906)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 907)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 908)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 909)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Alamat unik di internet dikenal sebagai _____ (variasi 910)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kazakhstan adalah _____ (variasi 911)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Turki adalah _____ (variasi 912)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kanada adalah _____ (variasi 913)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Australia adalah _____ (variasi 914)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Ethiopia adalah _____ (variasi 915)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Antonim 'eksplisit' adalah _____ (variasi 916)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Antonim 'objektif' adalah _____ (variasi 917)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Sinonim 'rigid' adalah _____ (variasi 918)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Sinonim 'ambiguitas' adalah _____ (variasi 919)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 920)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Peribahasa: Besar pasak daripada _____ (variasi 921)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Air beriak tanda tak _____ (variasi 922)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Kalimat definisi cenderung berpola _____ (variasi 923)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Bentuk baku dari 'resiko' adalah _____ (variasi 924)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bentuk baku dari 'analisa' adalah _____ (variasi 925)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Vietnam adalah _____ (variasi 926)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Planet terbesar di tata surya adalah _____ (variasi 927)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Garis lintang 0 derajat disebut _____ (variasi 928)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Alat ukur tekanan udara adalah _____ (variasi 929)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Air berubah menjadi gas pada proses _____ (variasi 930)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Tumbuhan membuat makanan melalui proses _____ (variasi 931)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Satuan SI untuk usaha adalah _____ (variasi 932)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 933)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Unsur dengan simbol Na adalah _____ (variasi 934)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gerak bumi mengelilingi matahari disebut _____ (variasi 935)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Larutan dengan pH < 7 bersifat _____ (variasi 936)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Hukum III Newton dikenal dengan aksi dan _____ (variasi 937)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Struktur data FIFO disebut _____ (variasi 938)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bahasa kueri standar basis data relasional adalah _____ (variasi 939)",
+    "jawaban": "sql"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Alamat unik di internet dikenal sebagai _____ (variasi 940)",
+    "jawaban": "ip"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Kazakhstan adalah _____ (variasi 941)",
+    "jawaban": "astana"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Ibukota Turki adalah _____ (variasi 942)",
+    "jawaban": "ankara"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Ibukota Kanada adalah _____ (variasi 943)",
+    "jawaban": "ottawa"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Australia adalah _____ (variasi 944)",
+    "jawaban": "canberra"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Ibukota Ethiopia adalah _____ (variasi 945)",
+    "jawaban": "addis ababa"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Antonim 'eksplisit' adalah _____ (variasi 946)",
+    "jawaban": "implisit"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Antonim 'objektif' adalah _____ (variasi 947)",
+    "jawaban": "subjektif"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Sinonim 'rigid' adalah _____ (variasi 948)",
+    "jawaban": "kaku"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Sinonim 'ambiguitas' adalah _____ (variasi 949)",
+    "jawaban": "kerancuan"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Peribahasa: Sekali merengkuh dayung, dua tiga pulau _____ (variasi 950)",
+    "jawaban": "terlampaui"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Peribahasa: Besar pasak daripada _____ (variasi 951)",
+    "jawaban": "tiang"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Peribahasa: Air beriak tanda tak _____ (variasi 952)",
+    "jawaban": "dalam"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Kalimat definisi cenderung berpola _____ (variasi 953)",
+    "jawaban": "umum khusus"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Bentuk baku dari 'resiko' adalah _____ (variasi 954)",
+    "jawaban": "risiko"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Bentuk baku dari 'analisa' adalah _____ (variasi 955)",
+    "jawaban": "analisis"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Ibukota Vietnam adalah _____ (variasi 956)",
+    "jawaban": "hanoi"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Planet terbesar di tata surya adalah _____ (variasi 957)",
+    "jawaban": "jupiter"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Garis lintang 0 derajat disebut _____ (variasi 958)",
+    "jawaban": "khattulistiwa"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Alat ukur tekanan udara adalah _____ (variasi 959)",
+    "jawaban": "barometer"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Air berubah menjadi gas pada proses _____ (variasi 960)",
+    "jawaban": "penguapan"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Tumbuhan membuat makanan melalui proses _____ (variasi 961)",
+    "jawaban": "fotosintesis"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Satuan SI untuk usaha adalah _____ (variasi 962)",
+    "jawaban": "joule"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Gas yang paling banyak di atmosfer bumi adalah _____ (variasi 963)",
+    "jawaban": "nitrogen"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Unsur dengan simbol Na adalah _____ (variasi 964)",
+    "jawaban": "natrium"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Gerak bumi mengelilingi matahari disebut _____ (variasi 965)",
+    "jawaban": "revolusi"
+  },
+  {
+    "pertanyaan": "Lengkapilah: Larutan dengan pH < 7 bersifat _____ (variasi 966)",
+    "jawaban": "asam"
+  },
+  {
+    "pertanyaan": "Lengkapi (variasi): Hukum III Newton dikenal dengan aksi dan _____ (variasi 967)",
+    "jawaban": "reaksi"
+  },
+  {
+    "pertanyaan": "Lengkapi kalimat: Struktur data FIFO disebut _____ (variasi 968)",
+    "jawaban": "queue"
+  },
+  {
+    "pertanyaan": "Isi titik-titik: Bahasa kueri standar basis data relasional adalah _____ (variasi 969)",
+    "jawaban": "sql"
+  }
+]
